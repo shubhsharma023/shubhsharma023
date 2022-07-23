@@ -1,10 +1,10 @@
 # Hi there <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma .
 
-## About Me!
+## About Me :
 - Currently second-year Computer Science undergraduate at Thapar Institute of Engineering and Technology.
 -
 
-## 📝 My Blogs:
+## 📝 My Blogs :
 - [Servo Motors : A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
 
 
