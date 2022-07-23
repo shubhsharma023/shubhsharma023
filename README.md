@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 
 ## 📝 My Blogs:
-- [A beginner's guide to Dualbooting Windows with Ubuntu: Part 1](https://botpad.hashnode.dev/servo-motors)
+- [Servo Motors : A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
 
 
 
