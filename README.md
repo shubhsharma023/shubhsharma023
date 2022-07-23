@@ -2,7 +2,7 @@
 
 ## About Me :
 - Currently second-year Computer Science undergraduate at Thapar Institute of Engineering and Technology.
--
+- Technology Enthusiast.
 
 ## 📝 My Blogs :
 - [Servo Motors : A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
