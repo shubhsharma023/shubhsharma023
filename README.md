@@ -9,6 +9,8 @@
 
 
 ## My recent works :
+- [DigitalBook : practice clone to facebook](https://shubhsharma023.github.io/DigitalBook/)
+- [Creative Image Gallery : Creative way to display image by hovering to their name](https://shubhsharma023.github.io/image-gallery/)
 - [Neuromophism : practice](https://shubhsharma023.github.io/neumorphism/)
 - [Educational website : practice](https://shubhsharma023.github.io/practice-studysite-/)
 
