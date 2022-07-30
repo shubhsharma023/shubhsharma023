@@ -1,7 +1,7 @@
 # Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 
 ## About Me :
-- Currently second-year Computer Science undergraduate at Thapar Institute of Engineering and Technology.
+- Currently a sophomore in Computer Science department at Thapar Institute of Engineering and Technology.
 - Technology Enthusiast.
 
 ## 📝 My Blogs :
