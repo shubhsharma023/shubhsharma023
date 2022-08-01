@@ -1,6 +1,6 @@
 # Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 
-## About Me :
+## 🤓 About Me :
 - Currently a sophomore in Computer Science department at Thapar Institute of Engineering and Technology.
 - Technology Enthusiast.
 
@@ -8,7 +8,7 @@
 - [Servo Motors : A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
 
 
-## My recent works :
+## 💻 Links to my recent works :
 - [DigitalBook : Clone to facebook with lightmode and dark mode enabled](https://digitalbook1.netlify.app/)
 - [Educational website : initial practice with responsive webpage and menubar scroll](https://educationalsiteprac.netlify.app/)
 - [Creative Image Gallery : Creative way to display image by hovering to their name](https://creativeimggallery.netlify.app/)
