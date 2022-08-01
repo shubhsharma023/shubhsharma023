@@ -9,7 +9,7 @@
 
 
 ## My recent works :
-- [DigitalBook : Clone to facebook with lightmode and dark mode](https://digitalbook1.netlify.app/)
+- [DigitalBook : Clone to facebook with lightmode and dark mode enabled](https://digitalbook1.netlify.app/)
 - [Educational website : initial practice with responsive menubar scroll](https://educationalsiteprac.netlify.app/)
 - [Creative Image Gallery : Creative way to display image by hovering to their name](https://creativeimggallery.netlify.app/)
 - [Neuromophism : creative way to display neuromophism](https://neuromorphismprac.netlify.app/)
