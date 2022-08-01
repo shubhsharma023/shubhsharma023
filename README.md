@@ -9,10 +9,10 @@
 
 
 ## My recent works :
-- [DigitalBook : practice clone to facebook](https://digitalbook1.netlify.app/)
-- [Educational website : practice](https://educationalsiteprac.netlify.app/)
+- [DigitalBook : Clone to facebook with lightmode and dark mode](https://digitalbook1.netlify.app/)
+- [Educational website : initial practice with responsive menubar scroll](https://educationalsiteprac.netlify.app/)
 - [Creative Image Gallery : Creative way to display image by hovering to their name](https://creativeimggallery.netlify.app/)
-- [Neuromophism : practice](https://neuromorphismprac.netlify.app/)
+- [Neuromophism : creative way to display neuromophism](https://neuromorphismprac.netlify.app/)
 - [Glassmorphism : practice](https://glassmorphism1.netlify.app/)
 
 <h3 align="left">Languages and Tools:</h3>
