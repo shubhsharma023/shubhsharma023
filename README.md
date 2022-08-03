@@ -1,7 +1,7 @@
 ## ⚠️Kindly go through the links given to the "Links to my recent works" section to look my recent works. My repos are private of these links.⚠️
 # Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 ## 🤓 About Me :
-- Currently a sophomore in Computer Science department at Thapar Institute of Engineering and Technology.
+- A sophomore in Computer Science department at Thapar Institute of Engineering and Technology.
 - Technology Enthusiast.
 
 ## 📝 My Blogs :
