@@ -1,5 +1,4 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsharma023&label=Profile%20views&color=0e75b6&style=flat" alt="shubhsharma023" /> </p>
+## ⚠️Kindly go through the links given to the "Links to my recent works" section to look my recent works. My repos are private of these links.⚠️
 
 # Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 
@@ -48,6 +47,8 @@
 <!--
 ## ⚠️Kindly go through the links given to the "Links to my recent works" section to look my recent works. My repos are private of these links.⚠️
 **shubhsharma023/shubhsharma023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsharma023&label=Profile%20views&color=0e75b6&style=flat" alt="shubhsharma023" /> </p>
 
 Here are some ideas to get you started:
 
