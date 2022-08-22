@@ -1,4 +1,5 @@
 ## ⚠️Kindly go through the links given to the "Links to my recent works" section to look my recent works. My repos are private of these links.⚠️
+![Profile views](https://gpvc.arturio.dev/[shubhsharma023])
 
 # Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 
