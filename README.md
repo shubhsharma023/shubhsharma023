@@ -1,5 +1,6 @@
 
 # Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsharma023&label=Profile%20views&color=0e75b6&style=flat" alt="shubhsharma023" /> </p>
 ## 🤓 About Me :
 - A sophomore in Computer Science department at Thapar Institute of Engineering and Technology.
 - Technology Enthusiast.
