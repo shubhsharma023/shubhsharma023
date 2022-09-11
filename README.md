@@ -1,5 +1,5 @@
 
-
+![Visitor Count](https://profile-counter.glitch.me/{shubhsharma023}/count.svg)
 
 # Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 
