@@ -29,6 +29,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /> 
 <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/markdown.png" alt="MarkDown"/> </a></p>
 
+<p align="center">
+    <a href="https://github.com/shubhsharma023/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shubhsharma023's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsharma023&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhsharma023&show_icons=true&locale=en&layout=compact" alt="shubhsharma023" /></p>
 
