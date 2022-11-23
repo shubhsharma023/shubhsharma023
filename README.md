@@ -38,6 +38,8 @@
 <p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhsharma023&show_icons=true&locale=en&layout=compact" alt="shubhsharma023" /></p>
 
 <p>&nbsp;<img align="centre" width="340" src="https://github-readme-stats.vercel.app/api?username=shubhsharma023&show_icons=true&locale=en" alt="shubhsharma023" /></p>
+ <a><img alt="shubhsharma023's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhsharma023&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a><img alt="shubhsharma023's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsharma023&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 
