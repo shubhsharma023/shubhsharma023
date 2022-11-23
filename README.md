@@ -35,9 +35,9 @@
     </a>
 </p>
 
-<p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhsharma023&show_icons=true&locale=en&layout=compact" alt="shubhsharma023" /></p>
 
-<p>&nbsp;<img align="centre" width="340" src="https://github-readme-stats.vercel.app/api?username=shubhsharma023&show_icons=true&locale=en" alt="shubhsharma023" /></p>
+
+
  <a><img alt="shubhsharma023's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhsharma023&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a><img alt="shubhsharma023's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsharma023&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
@@ -59,6 +59,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsharma023&label=Profile%20views&color=0e75b6&style=flat" alt="shubhsharma023" /> </p>
 <p><img align="centre"  width="340" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsharma023&" alt="shubhsharma023" /></p>
+..
+.
+<p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhsharma023&show_icons=true&locale=en&layout=compact" alt="shubhsharma023" /></p>
+<p>&nbsp;<img align="centre" width="340" src="https://github-readme-stats.vercel.app/api?username=shubhsharma023&show_icons=true&locale=en" alt="shubhsharma023" /></p>
 
 Here are some ideas to get you started:
 
