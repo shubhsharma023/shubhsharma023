@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="centre" width="340" src="https://github-readme-stats.vercel.app/api?username=shubhsharma023&show_icons=true&locale=en" alt="shubhsharma023" /></p>
 
-<p><img align="centre"  width="340" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsharma023&" alt="shubhsharma023" /></p>
+
 
 
 
@@ -56,6 +56,7 @@
 **shubhsharma023/shubhsharma023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsharma023&label=Profile%20views&color=0e75b6&style=flat" alt="shubhsharma023" /> </p>
+<p><img align="centre"  width="340" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsharma023&" alt="shubhsharma023" /></p>
 
 Here are some ideas to get you started:
 
