@@ -12,12 +12,12 @@
 - [Servo Motors : A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
 
 
-## 💻 Links to my recent works :
+<!-- ## 💻 Links to my recent works :
 - [DigitalBook : Clone to facebook with lightmode and dark mode enabled](https://digitalbook1.netlify.app/)
 - [Educational website : initial practice with responsive webpage and menubar scroll](https://educationalsiteprac.netlify.app/)
 - [Creative Image Gallery : Creative way to display image by hovering to their name](https://creativeimggallery.netlify.app/)
 - [Neuromophism : creative way to display neuromophism](https://neuromorphismprac.netlify.app/)
-- [Glassmorphism : practice](https://glassmorphism1.netlify.app/)
+- [Glassmorphism : practice](https://glassmorphism1.netlify.app/) -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
