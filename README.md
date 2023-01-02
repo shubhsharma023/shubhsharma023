@@ -30,6 +30,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /> 
 <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/markdown.png" alt="MarkDown"/> </a></p>
 <a href="https://daringfireball.net/projects/python/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python"/> </a></p>
+<a href="https://daringfireball.net/projects/twilio/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/twilio.png" alt="Twilio"/> </a></p>
 
 <p align="center">
     <a href="https://github.com/shubhsharma023/github-readme-streak-stats">
