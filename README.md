@@ -32,6 +32,7 @@
 <a href="https://daringfireball.net/projects/python/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python"/> </a></p>
 <a href="https://daringfireball.net/projects/tableau/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/tableau.png" alt="Tableau"/> </a></p>
 <a href="https://daringfireball.net/projects/excel/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/excel.png" alt="Excel"/> </a></p>
+[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
 
 <p align="center">
