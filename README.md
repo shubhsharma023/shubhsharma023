@@ -38,7 +38,7 @@
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
 </div>
-<a href="https://markdown.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/markdown.png" alt="Markdown" height="50" /></a>  
+<a href="https://cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus.png" alt="Cplusplus" height="50" /></a>  
 </div>
 
 
