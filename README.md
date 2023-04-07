@@ -2,9 +2,9 @@
 # Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 <video width="320" height="240" controls>
   
-https://user-images.githubusercontent.com/97976855/230578413-6c5cab87-1498-41ea-a571-5d9d2f2d7fa7.mp4
 
 
+![intro2](https://user-images.githubusercontent.com/97976855/230587023-d086adb8-3146-461f-91fa-9a844c1e2899.GIF)
 
 
 
