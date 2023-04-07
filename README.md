@@ -1,7 +1,6 @@
 
-# Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
-<video width="320" height="240" controls>
-
+# Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="20">, I'm Shubhankar Sharma
+![intro2](https://user-images.githubusercontent.com/97976855/230587648-4b964689-70b4-4f76-be90-bba0d6ca7115.GIF)
 ## 🤓 About Me :
 - A sophomore in Computer Science department at Thapar Institute of Engineering and Technology.
 - Technology Enthusiast.
