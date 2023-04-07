@@ -3,7 +3,7 @@
 <video width="320" height="240" controls>
   
 <img align="center" alt="GIF" src="https://drive.google.com/file/d/1u6nKQieTShlMqPcbSbvyRQl9OdQ8KYUH/view?usp=sharing" />  
-  <source src="https://drive.google.com/file/d/1u6nKQieTShlMqPcbSbvyRQl9OdQ8KYUH/view?usp=sharing" type="video/mp4">
+  <source src="https://www.canva.com/design/DAFfZSshi20/watch" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
