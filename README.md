@@ -2,12 +2,7 @@
 # Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 <video width="320" height="240" controls>
   
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/97976855/230572649-f6eebc63-1c6e-4471-91f6-86feabdb0590.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
+https://user-images.githubusercontent.com/97976855/230578413-6c5cab87-1498-41ea-a571-5d9d2f2d7fa7.mp4
 
 
 
