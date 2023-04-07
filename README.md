@@ -55,7 +55,7 @@
  <a><img alt="shubhsharma023's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhsharma023&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a><img alt="shubhsharma023's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsharma023&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<table align="center">
+<table align="center" border="none">
   <tr>
     <td align="center">
       <img src="https://profile-counter.glitch.me/{shubhsharma023}/count.svg" alt="Visitor Count" />
