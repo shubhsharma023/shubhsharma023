@@ -1,5 +1,5 @@
 
-![Visitor Count](https://profile-counter.glitch.me/{shubhsharma023}/count.svg)
+
 
 # Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 
@@ -56,8 +56,7 @@
   <a><img alt="shubhsharma023's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsharma023&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
-
-
+<center>![Visitor Count](https://profile-counter.glitch.me/{shubhsharma023}/count.svg)<center/>
 
 
 
