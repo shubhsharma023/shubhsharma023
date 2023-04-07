@@ -15,9 +15,10 @@
 
 
 ## 💻 Links to my recent works :
-- [DawAI](https://dawai.onrender.com/) :Flask based website, to book your medical appointments and a key feature to predict the medicine based on symptoms.
+- [DawAI](https://dawai.onrender.com/) : Flask based website, to book your medical appointments and a key feature to predict the medicine based on symptoms.
 - [DigitalBook](https://digitalbook1.netlify.app/) : Clone to facebook with lightmode and dark mode enabled.
 - [Educational website](https://educationalsiteprac.netlify.app/) : initial practice with responsive webpage and menubar scroll]
+- [MARS-website](https://marsinitialwebsite.netlify.app/) : A Society website made from html,css and js with mostly everthing funcional.
  
 <!-- - [Creative Image Gallery : Creative way to display image by hovering to their name](https://creativeimggallery.netlify.app/)
 - [Neuromophism : creative way to display neuromophism](https://neuromorphismprac.netlify.app/)
