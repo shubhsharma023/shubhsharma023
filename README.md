@@ -1,6 +1,6 @@
 
-# Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="20">, I'm Shubhankar Sharma
-![intro2](https://user-images.githubusercontent.com/97976855/230587648-4b964689-70b4-4f76-be90-bba0d6ca7115.GIF)
+<p align="center"> # Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="20">, I'm Shubhankar Sharma </p>
+![untitled](https://user-images.githubusercontent.com/97976855/230592893-9cac6e5e-afac-48b3-81f8-273088123d9a.GIF)
 ## 🤓 About Me :
 - A sophomore in Computer Science department at Thapar Institute of Engineering and Technology.
 - Technology Enthusiast.
