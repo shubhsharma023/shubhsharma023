@@ -4,7 +4,7 @@
   
 <img align="center" alt="GIF"/>  
   <source src="https://user-images.githubusercontent.com/97976855/230572649-f6eebc63-1c6e-4471-91f6-86feabdb0590.mp4" type="video/mp4">
-</video>
+</img>
 
 
 
