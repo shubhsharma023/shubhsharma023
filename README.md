@@ -56,9 +56,9 @@
   <a><img alt="shubhsharma023's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsharma023&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <td align="center">
-   
+   <tr>
       <img src="https://profile-counter.glitch.me/{shubhsharma023}/count.svg" alt="Visitor Count" />
-    
+ </tr>
   </td>
 
 
