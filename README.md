@@ -2,10 +2,9 @@
 # Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
 <video width="320" height="240" controls>
   
-<img align="center" alt="GIF" src="https://drive.google.com/file/d/1u6nKQieTShlMqPcbSbvyRQl9OdQ8KYUH/view?usp=sharing" />  
+<img align="center" alt="GIF"/>  
   <source src="https://user-images.githubusercontent.com/97976855/230572649-f6eebc63-1c6e-4471-91f6-86feabdb0590.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+</img>
 
 
 
