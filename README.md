@@ -1,5 +1,8 @@
 
-# Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="20">, I'm Shubhankar Sharma
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+
+<h1 align="center"># Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="20">, I'm Shubhankar Sharma</h1>
+
 
 ![untitled](https://user-images.githubusercontent.com/97976855/230592893-9cac6e5e-afac-48b3-81f8-273088123d9a.GIF)
 ## 🤓 About Me :
