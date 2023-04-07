@@ -4,10 +4,6 @@
   
 
 
-![intro2](https://user-images.githubusercontent.com/97976855/230587023-d086adb8-3146-461f-91fa-9a844c1e2899.GIF)
-
-
-
 
 
 ## 🤓 About Me :
