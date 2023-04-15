@@ -3,10 +3,7 @@
 
 <h1 align="center">Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma</h1>
 
-
-
-https://user-images.githubusercontent.com/97976855/232207693-7edfdf5b-7637-4a2c-9a2f-f5c3b1f461ec.mp4
-
+![Github intro](https://user-images.githubusercontent.com/97976855/232208272-b70be653-e9ca-4380-b085-1df0c8546a36.gif)
 
 
 ## 🤓 About Me :
