@@ -2,8 +2,9 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma</h1>
-
+<center>
 ![Github intro](https://user-images.githubusercontent.com/97976855/232208272-b70be653-e9ca-4380-b085-1df0c8546a36.gif)
+ </center>
 
 
 ## 🤓 About Me :
