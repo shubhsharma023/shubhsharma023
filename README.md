@@ -4,7 +4,11 @@
 <h1 align="center">Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma</h1>
 
 
-![untitled](https://user-images.githubusercontent.com/97976855/230592893-9cac6e5e-afac-48b3-81f8-273088123d9a.GIF)
+
+https://user-images.githubusercontent.com/97976855/232207693-7edfdf5b-7637-4a2c-9a2f-f5c3b1f461ec.mp4
+
+
+
 ## 🤓 About Me :
 - A sophomore in Computer Science department at Thapar Institute of Engineering and Technology.
 - Technology Enthusiast.
