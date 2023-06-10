@@ -8,7 +8,7 @@
 
 
 ## 🤓 About Me :
-- A sophomore in Computer Science department at Thapar Institute of Engineering and Technology.
+- A Student in Computer Science department at Thapar Institute of Engineering and Technology.
 
 ## 📝 My Blogs :
 - [Servo Motors : A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
