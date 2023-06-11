@@ -3,7 +3,9 @@
 
 <h1 align="center">Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma</h1>
 <!-- ![Github intro](https://user-images.githubusercontent.com/97976855/232208272-b70be653-e9ca-4380-b085-1df0c8546a36.gif) -->
-<img src="https://github.com/shubhsharma023/shubhsharma023/assets/97976855/cbb38ef9-0e48-4634-9f9b-c45cf54f7d30"  width="400" height="300" align="center">
+<p  align="center">
+<img src="https://github.com/shubhsharma023/shubhsharma023/assets/97976855/cbb38ef9-0e48-4634-9f9b-c45cf54f7d30"  width="400" height="300">
+ </p>
 
 
 
