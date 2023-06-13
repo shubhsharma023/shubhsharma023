@@ -15,7 +15,7 @@
 
 ## 📝 My Blogs :
 - [Servo Motors : A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
-
+<!--
 
 ## 💻 Links to my recent works :
 - [DawAI](https://dawai.onrender.com/) : Flask based website, to book your medical appointments and a key feature to predict the medicine based on symptoms.
