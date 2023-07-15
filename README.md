@@ -18,8 +18,8 @@
 - 
 ## 💻 Links to my recent works :
 - [TIET360](https://tiet360.thapar.edu/): A project under Thapar Institute of Technology to create 360 view of the institue.
-- [MARS-website](https://marsinitialwebsite.netlify.app/): A Society website made from HTML,css and js with mostly everything funcional.
-- [DawAI](https://dawai.onrender.com/): Flask-based website to book your medical appointments and a key feature to predict the medicine based on symptoms.
+- [MARS-website](https://mars.netlify.app/): A Society website made from HTML,css and js with mostly everything funcional.
+- [DawAI](https://dawai.onrender.com/): Flask-based website to book medical appointments and a key feature to predict the medicine based on symptoms.
 <!--- [DigitalBook](https://digitalbook1.netlify.app/) : Clone to facebook with lightmode and dark mode enabled.
 - [Educational website](https://educationalsiteprac.netlify.app/) : initial practice with responsive webpage and menubar scroll. -->
 
