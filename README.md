@@ -11,17 +11,18 @@
 
 
 ## 🤓 About Me :
-- A Student in Computer Science department at Thapar Institute of Engineering and Technology.
+- A Student in the Computer Science department at Thapar Institute of Engineering and Technology.
 
 ## 📝 My Blogs :
-- [Servo Motors : A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
-<!--
-
+- [Servo Motors: A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
+- 
 ## 💻 Links to my recent works :
-- [DawAI](https://dawai.onrender.com/) : Flask based website, to book your medical appointments and a key feature to predict the medicine based on symptoms.
-- [DigitalBook](https://digitalbook1.netlify.app/) : Clone to facebook with lightmode and dark mode enabled.
-- [Educational website](https://educationalsiteprac.netlify.app/) : initial practice with responsive webpage and menubar scroll.
-- [MARS-website](https://marsinitialwebsite.netlify.app/) : A Society website made from html,css and js with mostly everthing funcional.
+- [TIET360](https://tiet360.thapar.edu/): A project under Thapar Institute of Technology to create 360 view of the institue.
+- [MARS-website](https://marsinitialwebsite.netlify.app/): A Society website made from HTML,css and js with mostly everything funcional.
+- [DawAI](https://dawai.onrender.com/): Flask-based website to book your medical appointments and a key feature to predict the medicine based on symptoms.
+<!--- [DigitalBook](https://digitalbook1.netlify.app/) : Clone to facebook with lightmode and dark mode enabled.
+- [Educational website](https://educationalsiteprac.netlify.app/) : initial practice with responsive webpage and menubar scroll. -->
+
  
 <!-- - [Creative Image Gallery : Creative way to display image by hovering to their name](https://creativeimggallery.netlify.app/)
 - [Neuromophism : creative way to display neuromophism](https://neuromorphismprac.netlify.app/)
