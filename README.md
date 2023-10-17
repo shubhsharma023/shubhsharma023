@@ -14,7 +14,7 @@
 - Pre-Final Student in the Computer Science department at Thapar Institute of Engineering and Technology.
 
 ## 📝 My Blogs :
-- [Servo Motors: A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
+- [Servo Motors](https://botpad.hashnode.dev/servo-motors): A beginner's guide to Servo Motors
 ## 💻 Links to my recent works :
 - [TIET360](https://tiet360.thapar.edu/): A project under Thapar Institute of Technology to create 360 view of the institue.
 - [MARS-website](https://mars.netlify.app/): A Society website made from HTML,css and js with mostly everything funcional.
