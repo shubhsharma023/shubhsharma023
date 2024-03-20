@@ -70,6 +70,7 @@
 </table>
 
 
+<img src="https://raw.githubusercontent.com/shubhsharma023/shubhsharma023/output/snake.svg" alt="Snake animation" />
 
 
 
