@@ -10,7 +10,7 @@
 
 
 
-## 🤓 About Me :
+## About Me :
 - Pre-Final Student in the Computer Science department at Thapar Institute of Engineering and Technology.
 
 ## 📝 My Blogs :
