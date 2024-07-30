@@ -28,7 +28,7 @@
 - [Neuromophism : creative way to display neuromophism](https://neuromorphismprac.netlify.app/)
 - [Glassmorphism : practice](https://glassmorphism1.netlify.app/)
  -->
-<h3 align="left">Languages and Tools:</h3>
+<!--<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
