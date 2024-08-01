@@ -12,8 +12,9 @@
 
 ## About Me :
 - Final Student in the Computer Science department at Thapar Institute of Engineering and Technology.
+- Just a random guy figuring out to print "Hello World!"
 
-## 📝 My Blogs :
+<!--## 📝 My Blogs :
 - [Servo Motors](https://botpad.hashnode.dev/servo-motors): A beginner's guide to Servo Motors
 <!--## 💻 Recent works :
 - [TIET360](https://tiet360.thapar.edu/): A project under Thapar Institute of Technology to create 360 view of the institue.
