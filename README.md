@@ -15,7 +15,7 @@
 
 ## 📝 My Blogs :
 - [Servo Motors](https://botpad.hashnode.dev/servo-motors): A beginner's guide to Servo Motors
-## 💻 Recent works :
+<!--## 💻 Recent works :
 - [TIET360](https://tiet360.thapar.edu/): A project under Thapar Institute of Technology to create 360 view of the institue.
 - [Vue360Infra](https://vue360infra.com/): Website to explore and create 360 virtual tour
 - [MARS-website](https://mars.netlify.app/): A Society website made from HTML,css and js with mostly everything funcional.
