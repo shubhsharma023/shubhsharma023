@@ -1,6 +1,6 @@
 
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<a href="#"><img width="100%" src="https://github.com/user-attachments/assets/6f54d6c4-ac9a-4814-9a58-6f6629c0e80b" height="75px"/></a>
+<a href="#"><img width="50%" src="https://github.com/user-attachments/assets/6f54d6c4-ac9a-4814-9a58-6f6629c0e80b" height="auto"/></a>
 
 
 <h1 align="center">Hello! <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma</h1>
