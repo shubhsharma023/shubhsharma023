@@ -19,7 +19,7 @@
 
 ## About Me :
 - Final Student in the Computer Science department at Thapar Institute of Engineering and Technology.
-- Just a random guy figuring out to print "Hello World!"
+- Curious Seeker!
 
 <!--## 📝 My Blogs :
 - [Servo Motors](https://botpad.hashnode.dev/servo-motors): A beginner's guide to Servo Motors
