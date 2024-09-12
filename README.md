@@ -30,10 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsharma023&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubhsharma023&icon=10&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!--## 📝 My Blogs :
 - [Servo Motors](https://botpad.hashnode.dev/servo-motors): A beginner's guide to Servo Motors
 <!--## 💻 Recent works :
