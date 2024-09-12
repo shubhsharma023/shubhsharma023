@@ -9,7 +9,7 @@
     <img width="30%" src="https://github.com/user-attachments/assets/6f54d6c4-ac9a-4814-9a58-6f6629c0e80b" height="auto" />
   </a>
 </div>
-![Github intro](https://user-images.githubusercontent.com/97976855/232208272-b70be653-e9ca-4380-b085-1df0c8546a36.gif)
+<!-- ![Github intro](https://user-images.githubusercontent.com/97976855/232208272-b70be653-e9ca-4380-b085-1df0c8546a36.gif) -->
 <!-- <p  align="center">
 <img src="https://github.com/shubhsharma023/shubhsharma023/assets/97976855/cbb38ef9-0e48-4634-9f9b-c45cf54f7d30"  width="200" height="150">
  </p> -->
@@ -54,7 +54,7 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-</div>
+</div>--->
 
 
 <p align="center">
