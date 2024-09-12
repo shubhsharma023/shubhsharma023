@@ -28,7 +28,7 @@
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhsharma023&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="30%" height="200px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsharma023&theme=gotham&hide_border=false" width="30%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsharma023&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="30%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsharma023&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="30%" height="100px" />
 </div>
 
 
