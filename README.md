@@ -1,4 +1,4 @@
-
+ 
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 
@@ -27,7 +27,7 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsharma023&theme=gotham&hide_border=true" style="width: 300px; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsharma023&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 300px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsharma023&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 150px; height: 200px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=shubhsharma023&theme=gotham&hide_border=true&include_all_commits=false&count_private=true" style="width: 300px; height: 200px;" />
 </div>
 
